@@ -849,7 +849,7 @@ img {
   }
 
   .skills__content {
-    grid-template-columns: repeat(6, max-content);
+    grid-template-columns: repeat(8, max-content);
   }
 
   .services__container {
