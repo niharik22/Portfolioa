@@ -129,12 +129,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 /*=============== Role Changes ===============*/
-const roles = ["Technical Analyst", "Data Analyst", "Business Analyst"];
+const roles = ["Technical Analyst", "Data Scientist", "Data Analyst"];
 let roleIndex = 0;
 let charIndex = 0;
 let typingSpeed = 100; // Adjust typing speed (in ms) per character
-let erasingSpeed = 50; // Adjust erasing speed (in ms) per character
-let delayBetweenRoles = 2000; // Delay before typing next role (in ms)
+let erasingSpeed = 100; // Adjust erasing speed (in ms) per character
+let delayBetweenRoles = 1500; // Delay before typing next role (in ms)
 
 const roleElement = document.getElementById("role");
 
