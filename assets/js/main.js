@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 /*=============== Role Changes ===============*/
-const roles = ["Data Scientist", "AI/ML Analyst", "Machine Learning Engineer"];
+const roles = ["Software Engineer", "Backend Developer", "Full-Stack Developer"];
 let roleIndex = 0;
 let charIndex = 0;
 let typingSpeed = 100; // Adjust typing speed (in ms) per character
